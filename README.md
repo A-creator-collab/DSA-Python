@@ -8,3 +8,7 @@ Python solutions for Data Structures and Algorithms.
 
 ## Strings
 - Valid Anagram — `Strings/valid_anagram.py`
+- 
+## Searching
+- Linear Search — `Arrays/linear_search.py`
+- Binary Search — `Arrays/binary_search.py`
