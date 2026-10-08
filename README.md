@@ -8,6 +8,7 @@ Python solutions for Data Structures and Algorithms.
 - Rotate Array — `Arrays/rotate_array.py`
 - Product of Array Except Self — `Arrays/product_except_self.py`
 - Container With Most Water — `Arrays/container_with_most_water.py`
+- - Move Zeroes — `Arrays/move_zeroes.py`
 
 ## Strings
 - Valid Anagram — `Strings/valid_anagram.py`
