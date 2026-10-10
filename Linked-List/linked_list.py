@@ -89,3 +89,4 @@ if __name__ == "__main__":
     assert ll.to_list() == [0, 1, 3]
     assert ll.delete(99) is False
     print("All tests passed.")
+# End of linked list implementation
