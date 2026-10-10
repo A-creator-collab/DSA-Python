@@ -12,6 +12,10 @@ Python solutions for Data Structures and Algorithms.
 
 ## Strings
 - Valid Anagram — `Strings/valid_anagram.py`
+  
+## Linked List
+- Singly Linked List Implementation — `Linked-List/linked_list.py`
+- Reverse Linked List — `Linked-List/reverse_list.py`
 - 
 ## Searching
 - Linear Search — `Arrays/linear_search.py`
