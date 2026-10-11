@@ -20,3 +20,6 @@ Python solutions for Data Structures and Algorithms.
 ## Searching
 - Linear Search — `Arrays/linear_search.py`
 - Binary Search — `Arrays/binary_search.py`
+## Stack
+- Stack Implementation — `Stack/stack.py`
+- Valid Parentheses — `Stack/valid_parentheses.py`
