@@ -23,3 +23,8 @@ Python solutions for Data Structures and Algorithms.
 ## Stack
 - Stack Implementation — `Stack/stack.py`
 - Valid Parentheses — `Stack/valid_parentheses.py`
+
+## Queue
+- Queue Implementation — `Queue/queue.py`
+- Deque Implementation — `Queue/deque.py`
+- Implement Stack Using Queues — `Queue/implement_stack_using_queues.py`
