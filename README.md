@@ -20,6 +20,10 @@ Python solutions for Data Structures and Algorithms.
 ## Searching
 - Linear Search — `Arrays/linear_search.py`
 - Binary Search — `Arrays/binary_search.py`
+- Search in Rotated Sorted Array — `Searching/search_rotated.py`
+- First and Last Occurrence — `Searching/first_last_occurrence.py`
+- Search Insert Position — `Searching/search_insert.py`
+- 
 ## Stack
 - Stack Implementation — `Stack/stack.py`
 - Valid Parentheses — `Stack/valid_parentheses.py`
