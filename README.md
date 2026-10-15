@@ -2,33 +2,77 @@
 
 Python solutions for Data Structures and Algorithms.
 
-## Arrays
-- Two Sum — `Arrays/two_sum.py`
-- Best Time to Buy and Sell Stock — `Arrays/best_time_to_buy_and_sell_stock.py`
-- Rotate Array — `Arrays/rotate_array.py`
-- Product of Array Except Self — `Arrays/product_except_self.py`
-- Container With Most Water — `Arrays/container_with_most_water.py`
-- - Move Zeroes — `Arrays/move_zeroes.py`
+Every solution is written from scratch, tested with assertions in the
+`if __name__ == "__main__"` block, and organized by topic.
 
-## Strings
-- Valid Anagram — `Strings/valid_anagram.py`
-  
-## Linked List
-- Singly Linked List Implementation — `Linked-List/linked_list.py`
-- Reverse Linked List — `Linked-List/reverse_list.py`
-- 
-## Searching
-- Linear Search — `Arrays/linear_search.py`
-- Binary Search — `Arrays/binary_search.py`
-- Search in Rotated Sorted Array — `Searching/search_rotated.py`
-- First and Last Occurrence — `Searching/first_last_occurrence.py`
-- Search Insert Position — `Searching/search_insert.py`
-- 
-## Stack
-- Stack Implementation — `Stack/stack.py`
-- Valid Parentheses — `Stack/valid_parentheses.py`
+## Topics Covered
 
-## Queue
-- Queue Implementation — `Queue/queue.py`
-- Deque Implementation — `Queue/deque.py`
-- Implement Stack Using Queues — `Queue/implement_stack_using_queues.py`
+| Topic | Solutions | Folder |
+| :--- | :--- | :--- |
+| Arrays | Two Sum, Best Time to Buy and Sell Stock, Move Zeroes, Rotate Array, Product Except Self, Container With Most Water | `Arrays/` |
+| Strings | Valid Anagram, Longest Substring, Valid Palindrome | `Strings/` |
+| Searching | Linear Search, Binary Search, Rotated Array Search, First/Last Occurrence, Search Insert | `Arrays/`, `Searching/` |
+| Linked List | Singly Linked List, Reverse List | `Linked-List/` |
+| Stack | Stack, Valid Parentheses | `Stack/` |
+| Queue | Queue, Deque, Stack via Queues | `Queue/` |
+
+## Repository Structure
+
+DSA-Python/
+├── Arrays/
+├── Strings/
+├── Linked-List/
+├── Stack/
+├── Queue/
+├── Searching/
+└── README.md
+text
+
+
+## How to Run
+
+Each file is standalone. No dependencies.
+
+```bash
+python Arrays/two_sum.py
+python Stack/valid_parentheses.py
+
+Every file runs its own tests and prints All tests passed. on success.
+Progress
+
+    ☑
+
+    Arrays — basic + manipulation
+    ☑
+
+    Strings — anagram, substring, palindrome
+    ☑
+
+    Searching — linear, binary, variants
+    ☑
+
+    Linked List — implementation + reverse
+    ☑
+
+    Stack — implementation + valid parentheses
+    ☑
+
+    Queue — queue, deque, stack via queues
+    □
+
+    Sorting
+    □
+
+    Trees
+    □
+
+    Graphs
+    □
+
+    Dynamic Programming
+
+About
+
+Atharv Singh
+Learning in public: Python · AI/ML · Data Science · DSA
+GitHub: @A-creator-collab
